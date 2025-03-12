@@ -1,3 +1,5 @@
+# get keyinsights from a youtube video by analysing its transcript
+
 from youtube_transcript_api import YouTubeTranscriptApi
 from g4f.client import Client
 
